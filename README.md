@@ -23,6 +23,6 @@
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anzjoxavier&show_icons=true&locale=en&layout=compact" alt="anzjoxavier" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anzjoxavier&show_icons=true&locale=en" alt="anzjoxavier" /></p>
+
 
 
